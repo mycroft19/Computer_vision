@@ -1,3 +1,5 @@
+##Following are the two methods which can be used to access the webcam connected to your syatem.
+
 import cv2
 # cam = cv2.VideoCapture(0)
 # while cam.isOpened():
